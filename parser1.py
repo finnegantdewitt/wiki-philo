@@ -15,6 +15,8 @@ from typing import (
     List, Generator
 )
 
+# https://luizvbo.github.io/post/loading-wikipedia-data-with-python/
+
 VERSION = '20220101'
 
 # Path to the bz2 files with Wikipedia data
